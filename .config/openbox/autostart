@@ -1,0 +1,5 @@
+dunst &
+#xbindkeys &
+sxhkd &
+#bar &
+nitrogen --restore &
