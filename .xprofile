@@ -1,0 +1,11 @@
+sh ~/.fehbg
+
+PATH="$PATH:$HOME/bin"
+
+# Environment
+
+export EDITOR='emacs'
+export GIT_EDITOR='/usr/bin/emacs'
+export BROWSER=firefox
+export TERMINAL=st
+export FILEBROWSER=thunar
