@@ -3,3 +3,4 @@ dunst &
 sxhkd &
 #bar &
 nitrogen --restore &
+#compton -b
